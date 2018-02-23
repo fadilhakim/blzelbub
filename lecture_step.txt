@@ -1,0 +1,6 @@
+1. slide
+2. praktek
+3. ajarin selector / memilih halaman HTML -> pake innerHTML 
+   byId,byClass,byTag
+4. Menambahkan, menghapus , mengedit html
+5. baru ajarin pakai function onclick
